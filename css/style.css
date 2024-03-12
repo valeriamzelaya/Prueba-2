@@ -1,0 +1,67 @@
+:root{
+	--menu-hover: #c41034;
+	--color-general: #000;
+	--color-titulos: #2d2d2d;
+}
+body{
+	font-size: 14px;
+  font-family: 'Catamaran';
+  font-style: normal;
+}
+header{
+	background-color: #000;
+	padding: 5px 0;
+}
+footer{
+	background-color: #323232;
+	color: #bababa;
+	padding: 50px 0;
+	text-align: center;
+}
+#hero h1{
+	font-size: 70px;
+	margin: 10% 0;	
+	font-family: 'Catamaran';
+  font-style: normal;
+}
+
+#hero o1{
+	font-size: 25px;
+	margin: 10% 0;
+	font-family: 'Catamaran';
+  font-style: normal;
+}
+
+#hero{
+	background-image: url("../img/bg-sliders.jpg");
+	color: #fff;
+}
+
+#banners{
+	padding: 40px 0;
+	font-family: 'Catamaran';
+  font-style: normal;
+}
+
+#product{
+	padding: 50px 0;
+}
+
+#product h3{
+	color: #000000;
+	font-size: 55px;
+}
+
+#product p{
+	font-size: 20px;
+	font-family: 'Catamaran';
+  font-style: normal;
+}
+
+#logos{
+	font-size: 20px;
+	font-family: 'Catamaran';
+  font-style: normal;
+	text-align: center;
+		
+}
